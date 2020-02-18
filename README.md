@@ -1,1 +1,1 @@
-# MyShop
+# a c# ASP.net shop
